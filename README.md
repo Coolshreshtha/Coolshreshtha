@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+Great to see you here! I'm Anushka, and Economics kiddo (previously a Computer Science girlie). Look through my repos and ping me if something looks interesting)
+- 😄 Pronouns: She/Her
+- 🔭+ 🌱 I’m currently working/learning how to be an economist!
 <!--
 **Coolshreshtha/Coolshreshtha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
